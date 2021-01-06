@@ -2,4 +2,4 @@
 
 npm install
 npm run start
-npm run backend-server
+npm run backend-server 
